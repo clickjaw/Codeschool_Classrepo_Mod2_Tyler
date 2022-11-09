@@ -10,7 +10,7 @@ namespace LinkedList_Implementation_Solution
 {
 	public class OurLinkedList
 	{
-		internal OurNode Head { get; set; }
+		public OurNode Head { get; set; }
 		
 		public OurLinkedList() {
 			Head = new OurNode();
@@ -25,10 +25,25 @@ namespace LinkedList_Implementation_Solution
 
 		public void AddFirst (OurNode node) {
 			Head = node;
+			
 		}
 
-		public void AddLast (OurNode node) {
-			//
+		public void AddLast(OurNode node)
+		{
+
+			if (Head.Next == null)
+			{
+				Head.Next = node;
+			}
+			else
+			{
+				OurNode Current = Head;
+				while (Current.Next != null)
+				{
+					Current = Current.Next;
+				}
+				Current.Next = node;
+			}
 		}
 
 
