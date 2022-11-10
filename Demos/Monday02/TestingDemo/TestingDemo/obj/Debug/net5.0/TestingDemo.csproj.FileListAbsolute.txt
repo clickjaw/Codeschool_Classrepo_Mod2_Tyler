@@ -1,0 +1,16 @@
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.exe
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.deps.json
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.runtimeconfig.json
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.runtimeconfig.dev.json
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.dll
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\bin\Debug\net5.0\TestingDemo.pdb
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.csproj.AssemblyReference.cache
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.AssemblyInfoInputs.cache
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.AssemblyInfo.cs
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.dll
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\refint\TestingDemo.dll
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.pdb
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\TestingDemo.genruntimeconfig.cache
+C:\Users\DJ\Documents\GitHub\code-401-dotnet-guide\curriculum\class-02\demo\TestingDemo\TestingDemo\obj\Debug\net5.0\ref\TestingDemo.dll
