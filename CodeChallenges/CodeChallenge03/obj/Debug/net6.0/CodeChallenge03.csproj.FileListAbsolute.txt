@@ -1,0 +1,15 @@
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\bin\Debug\net6.0\CodeChallenge03.exe
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\bin\Debug\net6.0\CodeChallenge03.deps.json
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\bin\Debug\net6.0\CodeChallenge03.runtimeconfig.json
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\bin\Debug\net6.0\CodeChallenge03.dll
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\bin\Debug\net6.0\CodeChallenge03.pdb
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.csproj.AssemblyReference.cache
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.AssemblyInfoInputs.cache
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.AssemblyInfo.cs
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.csproj.CoreCompileInputs.cache
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.dll
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\refint\CodeChallenge03.dll
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.pdb
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\CodeChallenge03.genruntimeconfig.cache
+C:\Users\DJ\source\repos\CodeChallenges\CodeChallenge03\obj\Debug\net6.0\ref\CodeChallenge03.dll
